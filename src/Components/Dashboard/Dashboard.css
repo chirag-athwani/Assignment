@@ -1,0 +1,25 @@
+.dashboard {
+  background-color: palegoldenrod;
+  min-height: 100vh;
+}
+
+.dashboard .formCard {
+  width: 400px;
+  margin: 32px 5%;
+  padding: 32px;
+}
+
+.dashboard .tableCard {
+  width: 90%;
+  margin: 32px 0px;
+}
+
+.dashboard .counterCard {
+  width: 40vw;
+  margin: 64px;
+}
+
+#head {
+  background-color: none !important;
+}
+/*# sourceMappingURL=Dashboard.css.map */

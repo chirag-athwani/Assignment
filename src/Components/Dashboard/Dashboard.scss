@@ -1,0 +1,25 @@
+.dashboard {
+    background-color: palegoldenrod;
+    min-height: 100vh;
+
+    .formCard {
+        width: 400px;
+        margin: 32px 5%;
+        padding: 32px;
+    }
+
+    .tableCard {
+        width: 90%;
+        margin: 32px 0px;
+    }
+
+    .counterCard {
+        width: 40vw;
+        margin: 64px;
+    }
+
+}
+
+#head{
+   background-color:none !important; 
+}

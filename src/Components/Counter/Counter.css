@@ -1,0 +1,36 @@
+#emojis {
+  display: block;
+  margin: 25px 0px !important;
+  height: 120px !important;
+  border: none;
+}
+
+#emojis .image {
+  width: 20%;
+  margin: auto 6px;
+  cursor: pointer;
+}
+
+#toggleFade {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.count {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-item-align: center;
+      align-self: center;
+  margin: 24px;
+}
+
+.count .arrange {
+  margin-left: 24px;
+}
+
+.count .arrange .icon {
+  width: 32px;
+}
+/*# sourceMappingURL=Counter.css.map */
